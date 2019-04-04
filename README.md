@@ -12,5 +12,11 @@ Team memebers:
 Project Idea: Waste management
 
 A machine learning based project to predict whether a garbage item is bidegradable or non-biodegradable.
-We used locally trained our Artificial Neural Network and SVM. 
-We also used pre-trained models, VGG16 and ResNet, which were trained on ImageNet data.
+
+We trained our own Artificial Neural Network and SVM. 
+
+We also used pre-trained models, VGG16 and ResNet, available in Keras which won ImageNet competitions in 2013 and 2015 respectively.
+
+Accuracy:
+  SVM=~71%
+  VGG16=~75%
